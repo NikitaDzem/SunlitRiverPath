@@ -1,0 +1,6 @@
+framework module Pods_SunlitRiverPath {
+  umbrella header "Pods-SunlitRiverPath-umbrella.h"
+
+  export *
+  module * { export * }
+}
