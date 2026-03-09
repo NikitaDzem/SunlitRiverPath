@@ -6,12 +6,7 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		540BF4E656D6459CF5274A1D /* Pods_SunlitRiverPath.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2949FA3E0D2DDBDADC9AA31C /* Pods_SunlitRiverPath.framework */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXFileReference section */
-		2949FA3E0D2DDBDADC9AA31C /* Pods_SunlitRiverPath.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SunlitRiverPath.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E08B95A2F5C6426008D5BD1 /* SunlitRiverPath.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SunlitRiverPath.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		54C7A415E44CEAF08CA7269C /* Pods-SunlitRiverPath.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SunlitRiverPath.debug.xcconfig"; path = "Target Support Files/Pods-SunlitRiverPath/Pods-SunlitRiverPath.debug.xcconfig"; sourceTree = "<group>"; };
 		EA6D624D57125719B8E65B8B /* Pods-SunlitRiverPath.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SunlitRiverPath.release.xcconfig"; path = "Target Support Files/Pods-SunlitRiverPath/Pods-SunlitRiverPath.release.xcconfig"; sourceTree = "<group>"; };
@@ -30,7 +25,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				540BF4E656D6459CF5274A1D /* Pods_SunlitRiverPath.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -67,7 +61,6 @@
 		5A3FD042CED80A785AA48288 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				2949FA3E0D2DDBDADC9AA31C /* Pods_SunlitRiverPath.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -302,7 +295,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Sunlit River Path";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -339,7 +332,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Sunlit River Path";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
